@@ -1,5 +1,5 @@
 {% set name = "kanaries-track" %}
-{% set version = "0.0.3" %}
+{% set version = "0.0.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/kanaries_track-{{ version }}.tar.gz
-  sha256: 624bfba37c6018224019bcf7e32481f2d609595e03a20d72b9f3f9bc47b8d495
+  sha256: 2bc83512bee0b1f3720bf4e8dbf77c4264930a4eed3b1d6721e78e6b364e1873
 
 build:
   noarch: python
