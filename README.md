@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@longxiaofei](https://github.com/longxiaofei/)
+* [@rxm7706](https://github.com/rxm7706/)
 
